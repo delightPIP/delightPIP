@@ -1,5 +1,4 @@
-## I'm preparing my intruction👋
-# COMING SOON🔥
+## I'm preparing my intruction👋 COMING SOON🔥
 
 <!--
 **delightPIP/delightPIP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
